@@ -21,3 +21,6 @@ Zacznimjmy od tego: https://www.odoo.com/pl_PL/slides/slide/create-an-odoo-datab
 ## 🔧 Bonus — narzędzia
 - [Markdown w 5 minut](https://www.markdownguide.org/basic-syntax/)
 - [Linux Cheat Sheet](https://github.com/plembo/techwiki.mw/awesome_cheatsheets)
+- [Instalacja GIT lokalnie] (https://git-scm.com/book/pl/v2/Pierwsze-kroki-Instalacja-Git)
+- [Git + Github] (https://www.kompikownia.pl/index.php/2019/03/17/logowanie-do-git-github-przy-pomocy-ssh/)
+- 
