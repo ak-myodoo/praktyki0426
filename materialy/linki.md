@@ -1,4 +1,5 @@
 # 📚 Materiały do praktyk
+Ścieżka kariery z Odoo: https://www.odoo.com/pl_PL/education/program
 
 Zacznimjmy od tego: https://www.odoo.com/pl_PL/slides/slide/create-an-odoo-database-714?fullscreen=1#
 
